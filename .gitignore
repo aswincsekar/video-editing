@@ -90,3 +90,14 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# video
+.mp4
+
+# Idea
+.idea/
+
+# Video Folders
+alcohol tags/
+final_data_v1.0/
+smoking_videos_v1.0/
+alcohol videos/
