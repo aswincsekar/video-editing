@@ -7,5 +7,5 @@ folder and tags in a folder this can be the same folder.
 
 # Command
 
-> python trigger_vr.py <videos dir> <tag files dir> <destination dir> 1
+> python trigger_vr.py videos_dir tag_files_dir bb_destination_dir 1
 
